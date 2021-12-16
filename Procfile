@@ -1,1 +1,1 @@
-worker: python бот вк 11.11.21.py
+worker: python bot_vk2021.py
